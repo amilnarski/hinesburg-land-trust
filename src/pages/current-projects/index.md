@@ -18,4 +18,4 @@ The VAST snowmobile trail will continue to offer recreational access to the prop
 
 The total cost of permanently conserving the property is $473,000. Earlier this spring the VT Ho using and Conservation Board awarded the project a $453,000 grant. The Town of Hinesburg has agreed to donate $10,000 from its Land Conservation Fund. The Hinesburg Land Trust is committed to raising $10,000 to support this project and we need your help!
 
-*Tax-exempt donations can be sent to the Hinesburg Land Trust, PO Box 137, Hinesburg, VT 05461.*  Any additional funds raised beyond the $10,000 will be designated for future conservation projects.
+**Tax-exempt donations can be sent to the Hinesburg Land Trust, PO Box 137, Hinesburg, VT 05461.**  Any additional funds raised beyond the $10,000 will be designated for future conservation projects.
