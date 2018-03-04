@@ -23,6 +23,9 @@ const Navbar = () => (
         <Link className="navbar-item" to="/current-projects">
           Current Projects
         </Link>
+        <Link className="navbar-item" to="/turket-trot">
+          Turkey Trot
+        </Link>
       </div>
     </div>
   </nav>
