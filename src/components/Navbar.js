@@ -21,9 +21,6 @@ const Navbar = () => (
         <Link className="navbar-item" to="/conserved-land">
           Conserved Land
         </Link>
-        // <Link className="navbar-item" to="/current-projects">
-        //   Current Projects
-        // </Link>
         <Link className="navbar-item" to="/turkey-trot">
           Turkey Trot
         </Link>
@@ -33,3 +30,8 @@ const Navbar = () => (
 )
 
 export default Navbar
+
+
+// <Link className="navbar-item" to="/current-projects">
+//   Current Projects
+// </Link>
